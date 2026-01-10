@@ -85,6 +85,12 @@ const Images = {
         category: '2d',
         description: 'Click to enlarge'
     },
+    'Chract.PNG': {
+        title: 'Avatar Customization System',
+        category: '2d',
+        description: 'Click to enlarge'
+    },
+    
     
 };
 
@@ -227,3 +233,4 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 });
+
