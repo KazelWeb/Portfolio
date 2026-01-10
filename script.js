@@ -90,7 +90,11 @@ const Images = {
         category: '2d',
         description: 'Click to enlarge'
     },
-    
+    'Plugintool.png': {
+        title: 'Plugin Creation for making updates easier',
+        category: '2d',
+        description: 'Click to enlarge'
+    },
     
 };
 
@@ -233,4 +237,5 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 });
+
 
