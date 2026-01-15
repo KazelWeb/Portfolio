@@ -95,6 +95,16 @@ const Images = {
         category: '2d',
         description: 'Click to enlarge'
     },
+     'CardGame.png': {
+        title: 'Scalable Card Game Logistics',
+        category: '2d',
+        description: 'Click to enlarge'
+    },
+    'Pet System.png': {
+        title: 'Smooth Pet System Implementation',
+        category: '2d',
+        description: 'Click to enlarge'
+    },
     
 };
 
@@ -237,5 +247,6 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 });
+
 
 
