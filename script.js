@@ -105,6 +105,11 @@ const Images = {
         category: '2d',
         description: 'Click to enlarge'
     },
+    'BasePlatformer.PNG': {
+        title: 'Self-Made Base Platformer Game Creation',
+        category: '2d',
+        description: 'Click to enlarge'
+    },
     
 };
 
@@ -247,6 +252,7 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 });
+
 
 
 
